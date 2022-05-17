@@ -4,7 +4,6 @@ import BettyWhiteComp from "../components/BettyWhiteComp";
 
 function BettyWhite() {
     const data = BettyData;
-    console.log(data);
     return (
         <div>
             <Header />

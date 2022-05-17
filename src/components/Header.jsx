@@ -17,6 +17,7 @@ function Header(){
                 <li><Link to="/" className='App-link'>Home</Link></li>
                 <li><Link to="/betty" className='App-link'>Betty White</Link></li>
                 <button onClick={aloha} className='btn'>ALERT</button>
+                <li><Link to="/counter" className='App-link'>Counter</Link></li>
             </ul>
         </nav>
           <img src={logo} className="App-logo" alt="logo" />
