@@ -19,6 +19,7 @@ function Header(){
                 <button onClick={aloha} className='btn'>ALERT</button>
                 <li><Link to="/counter" className='App-link'>Counter</Link></li>
                 <li><Link to="/inputdup" className='App-link'>InputDuplication</Link></li>
+                <li><Link to="/diceroller" className='App-link'>DiceRoller</Link></li>
             </ul>
         </nav>
           <img src={logo} className="App-logo" alt="logo" />
