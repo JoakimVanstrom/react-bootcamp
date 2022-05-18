@@ -5,6 +5,7 @@ import Counter from "./pages/Counter";
 import InputDuplication from "./pages/InputDuplication";
 import DiceRoller from "./pages/DiceRoller";
 import FormSubPrev from "./pages/FormSubPrev";
+import Fruits from "./pages/Fruits";
 
 
 function App() {
@@ -18,6 +19,7 @@ function App() {
           <Route path="/inputdup" element={<InputDuplication />} />
           <Route path="/diceroller" element={<DiceRoller />} />
           <Route path="/form" element={<FormSubPrev />} />
+          <Route path="/fruits" element={<Fruits />} />
         </Routes>
       </BrowserRouter>
     </div>

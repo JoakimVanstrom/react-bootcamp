@@ -24,6 +24,7 @@ function Header(){
                 <li><Link to="/inputdup" className='App-link'>InputDuplication</Link></li>
                 <li><Link to="/diceroller" className='App-link'>DiceRoller</Link></li>
                 <li><Link to="/form" className='App-link'>Form</Link></li>
+                <li><Link to="/fruits" className='App-link'>Fruits</Link></li>
               </div>
             </ul>
         </nav>
