@@ -1,0 +1,22 @@
+.FormWrapper {
+    background-color: #282c34;
+    width: 100%;
+   color: #fff;
+   padding-bottom: 10rem;
+   display: flex;
+    flex-direction: column;
+}
+
+.FormTitle{
+    margin-top: 0;
+    text-align: center;
+}
+
+.FormTest{
+    display: flex;
+    justify-content: center;
+}
+
+.FormResult {
+    text-align: center;
+}

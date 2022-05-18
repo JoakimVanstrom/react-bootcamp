@@ -20,12 +20,26 @@
   color: white;
 }
 
- ul{
+
+ .HeaderUl{
   list-style-type: none;
   display: flex;
-  flex-direction: row;
-  justify-content: space-around;
+  flex-direction: column;
 }
+
+.HeaderUl1{  
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding-right: 2rem;
+}
+.HeaderUl2{  
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding-right: 2rem;
+}
+
 .App-link {
   color: #61dafb;
   text-decoration: none;
